@@ -6,9 +6,7 @@ Frontend web developer
 
 I'm a frontend developer that is interested in making fun, beautiful projects for the web.
 
-* 🌍  I'm based in LAGOS
 * ✉️  You can contact me at [oyeyemimubarak6@gmail.com](mailto:oyeyemimubarak6@gmail.com)
-* 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on fun projects
 
 ### Skills
